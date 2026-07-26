@@ -89,12 +89,12 @@
 主要目的：观察不同特征与 Transported 的关系强弱差异
 
 #### 特征：CryoSleep（是否进入低温休眠）
-![02_cryo_sleep](outputs/eda/02_cryo_sleep.png)
+![02_cryo_sleep](eda/02_cryo_sleep.png)
 
 说明：进入低温休眠的乘客，被传送概率明显更高
 
 #### 特征：NoSpend
-![08_no_spend](outputs/eda/08_no_spend.png)
+![08_no_spend](eda/08_no_spend.png)
 
 说明：完全没有消费的乘客更容易被传送
 
@@ -103,15 +103,15 @@
 因为处于低温休眠状态的乘客通常不会使用客房服务、餐厅、商场、SPA 和 VR 设施，因此总消费很可能为 0。
 
 #### 特征：CabinDeck（不同甲板之间的传送率差异）
-![05_cabin_deck](outputs/eda/05_cabin_deck.png)
+![05_cabin_deck](eda/05_cabin_deck.png)
 
 #### 特征：CabinSide
-![06_cabin_side](outputs/eda/06_cabin_side.png)
+![06_cabin_side](eda/06_cabin_side.png)
 
 说明飞船左右两侧可能受到异常事件的影响不同。
 
 #### 特征：HomePlanet
-![01_home_planet](outputs/eda/01_home_planet.png)
+![01_home_planet](eda/01_home_planet.png)
 
 Europa 乘客的传送率明显较高，Earth 乘客最低
 
