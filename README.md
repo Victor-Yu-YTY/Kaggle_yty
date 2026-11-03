@@ -27,7 +27,3 @@ Kaggle Spaceship Titanic 乘客转运预测竞赛。包含数据探查、EDA 可
 为 Kaggle 上的 PTCG AI Battle Challenge（宝可梦集换式卡牌 AI 对战）开发的参赛 Agent，属于非官方的学习与作品集项目。
 
 原仓库：<https://github.com/Victor-Yu-YTY/Card_Game_Agent_AI_Battle>
-
-## 说明
-
-各子目录通过 `git subtree` 合入，保留了各项目原有的提交历史，可通过 `git log -- <子目录>` 查看。
